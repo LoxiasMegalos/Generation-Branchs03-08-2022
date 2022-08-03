@@ -1,3 +1,5 @@
 Verde - Conforto
 Amarela - Aprendizagem
 Vermelho - Panico
+
+Botão de movimentação e confirmar
