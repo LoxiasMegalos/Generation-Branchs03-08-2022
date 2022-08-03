@@ -2,3 +2,5 @@ Horarios
 Dias
 
 Aulas
+
+Personalizar cores
